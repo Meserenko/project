@@ -1,0 +1,30 @@
+.carousel-control-prev{
+    left: 20%;
+    position: absolute;
+}
+
+.carousel-control-next{
+    right: 20%;
+    position: absolute;
+}
+
+.lead {
+    font-size: 1.25rem;
+    font-weight: 300;
+    margin-top: 0;
+    margin-bottom: 1 rem;
+    color: #555;
+    line-height: 1.6;
+}
+
+.content {
+    padding-top: 50px;
+       
+}
+
+body
+  {
+    width: 100%;
+    max-width: 100%;
+    overflow-x: hidden;
+  }
